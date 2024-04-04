@@ -26,5 +26,6 @@ module.exports = {
 	      url: "https://csc496f22demo.tldr.dev/graphql"
       }
     },
+    "gatsby-transformer-sharp",
   ],
 };
