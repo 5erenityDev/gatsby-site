@@ -1,2 +1,2 @@
 # gatsby-site
-A Gatsby Site
+My Gatsby Site for CSC 496
