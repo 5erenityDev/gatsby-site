@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[857],{3975:function(e,t,n){n.r(t);var l=n(3696);t.default=e=>{let{pageContext:t}=e;return l.createElement("div",null,l.createElement("h1",null,t.title),l.createElement("p",null,"Prep Time: ",t.preparationTime),l.createElement("p",null,"Cooking Time: ",t.cookingTime),l.createElement("p",null,"Ingredients: ",t.ingredients))}}}]);
+//# sourceMappingURL=component---src-templates-recipe-post-js-4469570f008e39b3fb8d.js.map
